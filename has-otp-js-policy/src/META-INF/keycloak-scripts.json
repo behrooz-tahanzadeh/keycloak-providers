@@ -1,0 +1,9 @@
+{
+    "policies": [
+        {
+            "name": "Has OTP",
+            "fileName": "has-otp.js",
+            "description": "A policy that grants access only for users with OTP credentials"
+        }
+    ]
+}
